@@ -1,0 +1,36 @@
+{
+  "light": {
+    "colors": {
+      "primary": "$app_primary",
+      "onPrimary": "$app_on_primary",
+      "background": "$app_surface",
+      "onBackground": "$app_on_surface",
+      "controlActive": "$app_control_active",
+      "controlNormal": "$app_control_normal"
+    },
+    "shapes": {
+      "cornerRadius": 16
+    },
+    "fonts": {
+      "size": { "body": 16, "title": 18 },
+      "weight": { "title": 600 }
+    }
+  },
+  "dark": {
+    "colors": {
+      "primary": "$app_primary_dark",
+      "onPrimary": "$app_on_primary",
+      "background": "$app_surface_dark",
+      "onBackground": "$app_on_surface_dark",
+      "controlActive": "$app_control_active_dark",
+      "controlNormal": "$app_control_normal_dark"
+    },
+    "shapes": {
+      "cornerRadius": 16
+    },
+    "fonts": {
+      "size": { "body": 16, "title": 18 },
+      "weight": { "title": 600 }
+    }
+  }
+}
